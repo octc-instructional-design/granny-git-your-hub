@@ -1,6 +1,8 @@
 # Granny… Git Your Hub!
 *A non-coder's guide to GitHub, AI-assisted creation, and digital possibilities for educators.*
 
+**[Visit the website](https://octc-instructional-design.github.io/granny-git-your-hub/)** (deployment pending)
+
 **Status: Work in progress.** An OCTC instructional design learning laboratory and future professional development resource.
 
 ## Purpose
